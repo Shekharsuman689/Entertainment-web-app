@@ -13,8 +13,8 @@ Powered by the incredible TMDB API, the Entertainment App brings you the latest 
 
 - API Documentation : https://documenter.getpostman.com/view/27285848/2sA3JKch2b
 - Video Explanation: 
-- Database Design: [Google Docs Link](https://docs.google.com/document/d/1hbnF4K5TD7rX6tV_f1QHFxl1lUa7iwCuzthboU_MwQM/edit?usp=sharing)
-- Best Practices : [Google Docs Link](https://docs.google.com/document/d/1KuIXsouPjAgOUs59XOcKuDiKuu74_20GStGO6DTDx6g/edit?usp=sharing)
+- Database Design: [Google Docs Link](https://docs.google.com/document/d/19ocewYay7B84qBjPmBIZGg8rTl2ZJ9Z0cPQJb6is4jI/edit?usp=sharing).
+- Best Practices : [Google Docs Link](https://docs.google.com/document/d/1J587HGrh1trYq2I8Sz0Nk3jLpUZRzkGcH04KA1RgJ1w/edit?usp=sharing).
 
 
 ## Features
