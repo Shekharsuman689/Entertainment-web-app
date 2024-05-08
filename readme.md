@@ -6,8 +6,8 @@ Powered by the incredible TMDB API, the Entertainment App brings you the latest 
 
 ## Deployment
 
-- **Frontend:** :- 
-- **Backend:** :- 
+- **Frontend:** :- https://entertainment-web-app-orpin.vercel.app/
+- **Backend:** :- https://entertainment-web-app-n1cu.vercel.app/
 
 ## Important Links
 
